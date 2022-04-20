@@ -6,4 +6,5 @@
 ### HELP: 
 
 ◌ [sugestões de projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)<br>
-◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)
+◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)<br>
+◌ [dicas para conseguir primeiro emprego](https://youtu.be/kjIgcgqqh38)
