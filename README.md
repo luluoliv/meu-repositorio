@@ -5,4 +5,4 @@
 
 ### HELP: 
 
-[sugestoes-projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)
+[sugestões de projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)
