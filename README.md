@@ -11,15 +11,15 @@
 
 ## sites para paletas de cores:
 
-[colorhunt](https://colorhunt.co/))
-[color adobe](https://color.adobe.com/pt/create/color-wheel)
-[coolors](https://coolors.co/)
-[webgradients](https://webgradients.com/)
+[colorhunt](https://colorhunt.co/)<br>
+[color adobe](https://color.adobe.com/pt/create/color-wheel)<br>
+[coolors](https://coolors.co/)<br>
+[webgradients](https://webgradients.com/)<br>
 
 ## sites para fontes:
-[google fonts](https://fonts.google.com/)
-[fonts adobe](https://fonts.adobe.com/)
+[google fonts](https://fonts.google.com/)<br>
+[fonts adobe](https://fonts.adobe.com/)<br>
 
 ## sites para icons:
-[pixabay](https://pixabay.com/pt/)
-[flaticon](https://www.flaticon.com/)
+[pixabay](https://pixabay.com/pt/)<br>
+[flaticon](https://www.flaticon.com/)<br>
