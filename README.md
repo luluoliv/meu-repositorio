@@ -3,23 +3,23 @@
 
 ##
 
-### HELP: 
+## HELP: 
 
 ◌ [sugestões de projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)<br>
 ◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)<br>
 ◌ [dicas para conseguir primeiro emprego](https://youtu.be/kjIgcgqqh38)
 
-# sites para paletas de cores:
+### sites para paletas de cores:
 
 [colorhunt](https://colorhunt.co/)<br>
 [color adobe](https://color.adobe.com/pt/create/color-wheel)<br>
 [coolors](https://coolors.co/)<br>
 [webgradients](https://webgradients.com/)<br>
 
-# sites para fontes:
+### sites para fontes:
 [google fonts](https://fonts.google.com/)<br>
 [fonts adobe](https://fonts.adobe.com/)<br>
 
-# sites para icons:
+### sites para icons:
 [pixabay](https://pixabay.com/pt/)<br>
 [flaticon](https://www.flaticon.com/)<br>
