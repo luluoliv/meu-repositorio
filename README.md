@@ -8,6 +8,7 @@
 ◌ [sugestões de projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)<br>
 ◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)<br>
 ◌ [dicas para conseguir primeiro emprego](https://youtu.be/kjIgcgqqh38)
+◌ [guia css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### sites para paletas de cores:
 
