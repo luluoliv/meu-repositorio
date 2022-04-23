@@ -25,4 +25,3 @@
 ### sites para icons:
 [pixabay](https://pixabay.com/pt/)<br>
 [flaticon](https://www.flaticon.com/)<br>
->>>>>>> b9037e85ff5c0e6572fdb2ee1cec8ef02f3a0af8
