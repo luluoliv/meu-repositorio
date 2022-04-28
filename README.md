@@ -6,6 +6,7 @@
 
 ## HELP: 
 
+
 ◌ [sugestões de projetos](https://github.com/rafaballerini/10ProjetosHTMLeCSS)<br>
 ◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)<br>
 ◌ [dicas para conseguir primeiro emprego](https://youtu.be/kjIgcgqqh38)<br>
@@ -25,4 +26,3 @@
 ### sites para icons:
 [pixabay](https://pixabay.com/pt/)<br>
 [flaticon](https://www.flaticon.com/)<br>
->>>>>>> b9037e85ff5c0e6572fdb2ee1cec8ef02f3a0af8
