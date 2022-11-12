@@ -18,7 +18,7 @@
 - [coolors](https://coolors.co/)<br>
 - [webgradients](https://webgradients.com/)<br>
 
-### 👩‍💻 sites para fontes:
+### 🅰 sites para fontes:
 - [google fonts](https://fonts.google.com/)<br>
 - [fonts adobe](https://fonts.adobe.com/)<br>
 
