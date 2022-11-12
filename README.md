@@ -10,6 +10,7 @@
 ◌ [quanto cobrar por um site?](https://github.com/rafaballerini/QuantoCobrarPorSite)<br>
 ◌ [dicas para conseguir primeiro emprego](https://youtu.be/kjIgcgqqh38)<br>
 ◌ [guia css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+◌ [ideias de projetos](https://github.com/florinpop17/app-ideas)
 
 ### 🎨 sites para paletas de cores:
 
