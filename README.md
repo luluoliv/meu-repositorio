@@ -22,7 +22,7 @@
 - [google fonts](https://fonts.google.com/)<br>
 - [fonts adobe](https://fonts.adobe.com/)<br>
 
-## #🏻‍🦲 sites para icons:
+### 🖼 sites para icons:
 - [pixabay](https://pixabay.com/pt/)<br>
 - [flaticon](https://www.flaticon.com/)<br>
 - [unDraw](https://undraw.co/illustrations)
